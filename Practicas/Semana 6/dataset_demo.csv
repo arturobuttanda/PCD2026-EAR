@@ -1,11 +1,3 @@
-id,name,age,height_cm,score
-1,Ana,25,165,9.5
-2,Luis,,175,8.0
-3,Marta,N/A,,7.0
-3,Marta,N/A,,7.0
-4,,31,172,
-5,Juan,twenty,180,8.7
-6,Ana,,160,
-7,Lucía,28,167,9.0
-8,Pablo,27,169,N/A
-9,,,,
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cd60a8eb3b56b3261ca2dd5bb967e6b785398b9c7ae19c4c59974c520ca79ab
+size 185
